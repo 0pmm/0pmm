@@ -1,4 +1,4 @@
-# Pedro H M Marchiotto
+# Pedro Henrique Modesto Marchiotto
 
 **`Estudante de Ciências da Computação`**
 
