@@ -3,13 +3,24 @@
 **`Estudante de Ciências da Computação`**
 
 ### Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=0pmm&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
+  />
 
-<a href="https://github.com/0pmm/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=0pmm&theme=dark&include_all_commits=true" />
-</a>
-<a href="https://github.com/0pmm/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0pmm&theme=dark&layout=compact&langs_count=8&card_width=320&custom_title=Tecnologias" />
-</a>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 ### Linguagens e Tecnologias
 
